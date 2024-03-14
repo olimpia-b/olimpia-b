@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 📫 Feel free to reach out to me: [![Linkedin Badge](<i class="fi fi-brands-linkedin"></i>)](https://www.linkedin.com/in/olimpia-borgohain/)
+- 📫 Feel free to reach out to me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/olimpia-borgohain/)
+
 
