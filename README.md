@@ -1,6 +1,6 @@
 ### Hi there, I'm Olimpia Borgohain 👋
 
-I'm currently a graduate student pursuing MSBA at Questrom School of Business, Boston University.
+I'm a recent MSBA grad from Questrom School of Business, Boston University.
 <!--
 **olimpia-b/olimpia-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
