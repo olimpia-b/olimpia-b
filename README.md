@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
--->
+
 
 - This is my tech stack: 
+
+-->
 - 📫 Feel free to reach out to me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/olimpia-borgohain/)
 
 
