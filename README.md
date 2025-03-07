@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning new technologies and really interested in data science and analytics
+- 🌱 I’m a huge data enthusiast and love drawing insights from raw data
 - 😄 Pronouns: she/hers
 - ⚡ Fun fact: I love listening to rock, punk music and going for walks
 <!--
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
+- This is my tech stack: 
 - 📫 Feel free to reach out to me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/olimpia-borgohain/)
 
 
