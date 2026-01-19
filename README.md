@@ -8,16 +8,16 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m a huge data enthusiast and love drawing insights from raw data
+- 🌱 I’m a huge data enthusiast and love drawing insights from raw, messy data
 - 😄 Pronouns: she/hers
-- ⚡ Fun fact: I love listening to rock, punk music and going for walks
+- ⚡ Fun fact: I love listening to rock, punk music and going for quick strolls
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
 -->
-- This is my tech stack:
+This is my tech stack:
 - **Programming:** Python (pandas, NumPy, scikit-learn, TensorFlow), SQL, R
 - **Machine Learning**: XGBoost, Random Forest, Clustering
 - **Data Visualization and Business Intelligence:** Tableau, Power BI, Looker, matplotlib, seaborn, plotly
@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - A/B testing and Experimentation
 
   
-- 📫 Feel free to reach out to me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/olimpia-borgohain/)
+📫 Feel free to reach out to me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/olimpia-borgohain/)
 
 
